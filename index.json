@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "jetbrains-fish",
+  "versions": [
+    {
+      "commit": "6bc004c209aa7f1b6443e4fb901a20978822a86b",
+      "tag": "",
+      "parsed_at": "2026-10-11T04:12:44.323922+00:00"
+    }
+  ]
+}
