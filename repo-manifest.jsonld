@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/jetbrains-fish/commit/6bc004c209aa7f1b6443e4fb901a20978822a86b",
       "git:hexsha": "6bc004c209aa7f1b6443e4fb901a20978822a86b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/jetbrains-fish/commit/0c7b06325e95962307f7156e1ecabe3103848dfd",
